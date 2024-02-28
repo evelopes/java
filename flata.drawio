@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T00:00:09.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="O66tBmK_4BpuSohHqJ7y" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T00:01:03.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="5O7PAyvrNG2zWWnlw5B8" version="23.1.7" type="github">
   <diagram name="Página-1" id="uVfIWwsOY82yQzBy9Nh6">
-    <mxGraphModel dx="2547" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3185" dy="2095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,13 +155,13 @@
         <mxCell id="li_X-T1dyy_0v0MKlhX1-2" value="Professor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-1500" y="-430" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="li_X-T1dyy_0v0MKlhX1-3" value="Acessar lista&lt;br&gt;de presenças" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="li_X-T1dyy_0v0MKlhX1-3" value="Acessar Lista&lt;br&gt;de Presenças" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="-420" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="li_X-T1dyy_0v0MKlhX1-4" value="Gerar Relatório" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=200;height=30;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="-540" width="460" height="480" as="geometry" />
+          <mxGeometry x="-1430" y="-540" width="400" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="li_X-T1dyy_0v0MKlhX1-9" value="Gerar relatório&lt;br&gt;de Presença" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="li_X-T1dyy_0v0MKlhX1-9" value="Gerar Relatório&lt;br&gt;de Presença" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1206" y="-370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="li_X-T1dyy_0v0MKlhX1-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="li_X-T1dyy_0v0MKlhX1-3" target="li_X-T1dyy_0v0MKlhX1-9">
